@@ -54,6 +54,11 @@ Demonstrations of javascript procedural caves generation
 }
 ```
 # Full Example
+
+
+
+![Screenshot](caves_ex.png)
+
 ```javascript
 const canvas = document.querySelector("canvas")
 const gfx = canvas.getContext("2d")
